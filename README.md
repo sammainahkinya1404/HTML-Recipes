@@ -1,1 +1,2 @@
-# HTML-Recipes
+# HTML-Recipe
+Project in HTML -alone
