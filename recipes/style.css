@@ -1,0 +1,5 @@
+.col{
+    column-gap: 25px;
+    padding-left: 20px;
+    display: grid;
+}
